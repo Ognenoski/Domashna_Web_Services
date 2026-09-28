@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "ime": "Daniel",
+    "fakultet": "FINKI",
+    "prosek": 10.0,
+    "grad": "Ohrid"
+  },
+  {
+    "id": 2,
+    "ime": "Jane",
+    "fakultet": "FIKT",
+    "prosek": 9.3,
+    "grad": "Bitola"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ohrid",
+    "country": "Macedonia",
+    "population": 42000
+  },
+  {
+    "id": 2,
+    "name": "Skopje",
+    "country": "Macedonia",
+    "population": 526000
+  },
+  {
+    "id": 3,
+    "name": "Bitola",
+    "country": "Macedonia",
+    "population": 69000
+  }
+]

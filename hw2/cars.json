@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "brand": "Volkswagen",
+    "model": "T-Cross",
+    "year": 2021,
+    "price": 18000
+  },
+  {
+    "id": 2,
+    "brand": "BMW",
+    "model": "320d",
+    "year": 2020,
+    "price": 25000
+  },
+  {
+    "id": 3,
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2022,
+    "price": 32000
+  }
+]

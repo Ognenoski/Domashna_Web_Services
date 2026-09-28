@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone",
+    "category": "Electronics",
+    "price": 1200
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 900
+  },
+  {
+    "id": 3,
+    "name": "Coffee Machine",
+    "category": "Home",
+    "price": 500
+  }
+]

@@ -1,0 +1,1 @@
+Definirav 5 razlicni shemi na REST resursi vo mojot slucaj cars.jsno, cities.json, movies.json, products.jsno i students.json.

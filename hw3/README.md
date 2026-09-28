@@ -1,0 +1,1 @@
+Od prethodnoto domashno Hw2  mu dodadov handleri vo mojov slucaj movies.jsno i gi testirav rutite preku Postman
